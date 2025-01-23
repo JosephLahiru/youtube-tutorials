@@ -9,8 +9,6 @@ Each tutorial has its own folder containing a dedicated README file with detaile
 
 1. [Tutorial 1: [How to host LLMs Locally]](tutorials/tutorial-1/README.md)
 
-*(Add more links as you add tutorials.)*
-
 ---
 
 ## How to Use This Repository
