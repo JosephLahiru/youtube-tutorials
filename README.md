@@ -7,7 +7,7 @@ Here, you'll find all the resources, commands, links, and step-by-step guides me
 
 Each tutorial has its own folder containing a dedicated README file with detailed instructions and resources. Click the links below to navigate:
 
-1. Tutorial 1: [How to host LLMs Locally](tutorials/tutorial-1/README.md)
+1. [How to host LLMs Locally](tutorials/tutorial-1/README.md)
 
 ---
 
